@@ -1,2 +1,2 @@
-# e_commerse
+# E_commerse
 Проект на курсе Karpov.courses по дата аналитике
